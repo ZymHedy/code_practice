@@ -39,5 +39,5 @@ class Solution:
 s = Solution()
 rotate_array = [3, 4, 5, 1, 2]
 array1 = [1, 3, 5]
-ans = s.minNumberInRotateArray(array1)
+ans = s.minNumberInRotateArray2(rotate_array)
 print(ans)
